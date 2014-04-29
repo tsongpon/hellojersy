@@ -11,7 +11,7 @@ run app :
 
           mvn jetty:run
     
-opne :
+open :
 
            http://localhost:9000/hellosjsesy/rest/persons/
            http://localhost:9000/hellosjsesy/rest/persons/fox
